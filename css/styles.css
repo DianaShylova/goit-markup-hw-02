@@ -147,8 +147,7 @@ body{
     color: #FFFFFF;
     letter-spacing: 0.04em;
     background: var(--brand-bright-color);
-    /*box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);*/
-    /*border-radius: 4px;*/
+    
     cursor: pointer;
 }
 
@@ -175,8 +174,7 @@ body{
     letter-spacing: 0.04em;  
     color: var(--brand-bright-color);
     background: var(--light-bg);
-    /*border: 1px solid #E7E9FC;*/
-    /*border-radius: 4px;*/
+   
     cursor: pointer;
 }
 
